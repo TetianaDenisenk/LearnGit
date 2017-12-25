@@ -2,7 +2,7 @@ using System;
 
 namespace LearnSP.Models
 {
-    public class ErrorViewModel2
+    public class ErrorViewModel1
     {
         public string RequestId { get; set; }
 
